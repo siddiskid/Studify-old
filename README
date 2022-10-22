@@ -1,0 +1,17 @@
+Welcome to Studify!
+
+This is the local version of Studify. 
+
+Instructions to start the website:
+
+1. Install flask using "pip install flask" command in your terminal
+
+2. Run the app.py python file
+
+3. Go to the local website address the file gives you.
+
+4. If you see the homepage, Studify has started succesfully 
+
+Note that google login will not work on the local version since localhost is not a verified domain name on firebase. 
+
+To visit the online version with full functionality, visit http://studify.pythonanywhere.com/home
